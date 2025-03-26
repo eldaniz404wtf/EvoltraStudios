@@ -2,20 +2,43 @@ MIT License
 
 Copyright (c) 2025 Eldaniz İbrahimli
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## License
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This project is licensed under the **MIT License**. The MIT License allows for flexible usage and distribution of the software, providing users with the freedom to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. However, the software is provided **as is**, and there is no warranty for any damages that may arise from its use.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### License Conditions
+
+The following conditions apply when using or distributing this software under the MIT License:
+
+1. **Usage Rights**:
+   - You are free to use the software for any purpose, whether personal or commercial.
+   - You can modify the software or create derivative works based on it.
+
+2. **Distribution**:
+   - You are allowed to distribute the software or any modified versions. However, when distributing the software, you must include the original **MIT License** and the license text with it.
+   - Ensure that the original license and copyright notice are included in any redistributed copies of the software.
+
+3. **Modifications and Derivative Works**:
+   - You may modify the software or create derivative works. If you distribute modified versions of the software, they must also be licensed under the **MIT License**.
+   - Any modifications should not infringe upon the original software's functionality or violate the license.
+
+4. **Warranty Disclaimer**:
+   - This software is provided "as is," without any warranties, express or implied. The software developer or copyright holder is not responsible for any damages arising from the use of this software.
+   - No warranty of merchantability, fitness for a particular purpose, or non-infringement is provided.
+
+5. **Software Distribution and License Visibility**:
+   - When distributing the software or any derivative works, you must include a copy of the MIT License.
+   - The copyright notice and license information must be clearly visible in any distributed version of the software.
+
+6. **License Validity**:
+   - This license becomes effective once you begin using the software. However, if any terms of the license are violated, the license may be revoked by the copyright holder.
+
+7. **Software Developer and Copyright Holder**:
+   - This software is provided by **EvoltraStudios** and developed by **Eldaniz İbrahimli**.
+   - The developer does not place any restrictions on how the software may be used, distributed, or modified.
+
+### Summary
+
+The MIT License is designed to promote the widespread use of open-source software by offering a flexible and user-friendly licensing structure. By using this software, you acknowledge and agree to the terms outlined above.
+
+For more information and the full license text, please refer to the **`LICENSE`** file.
